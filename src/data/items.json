@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Gold Tulip",
+    "price": 12.99,
+    "imgUrl": "/img/yellow.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Aimable Tulip",
+    "price": 10.99,
+    "imgUrl": "/img/purple.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cream Mixture",
+    "price": 18.99,
+    "imgUrl": "/img/mix1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Escape Tulip",
+    "price": 11.99,
+    "imgUrl": "/img/red.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Coldplay Tulip",
+    "price": 18.99,
+    "imgUrl": "/img/coldplay.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Garden Mix",
+    "price": 19.99,
+    "imgUrl": "/img/mix2.jpg"
+  }
+]
