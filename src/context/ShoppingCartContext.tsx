@@ -18,7 +18,9 @@ type ShoppingCartContext = {
     removeFromCart: (id: number) => void
     cartQuantity: number
     cartItems: CartItem[]
+
 }
+
 const ShoppingCartContext = createContext({} as ShoppingCartContext)
 
 export function useShoppingCart() {
