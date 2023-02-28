@@ -14,7 +14,7 @@ export function CartItem({id, quantity}: CartItemProps) {
     if (item == null) return null
     return (
         <Stack direction="horizontal" gap={2}>
-            <img src={item.imgUrl} style={{width: "140px", height: "85px", objectFit: "cover"}}/>
+            <img src={item.imgUrl} style={{width: "140px", height: "85px", objectFit: "cover"}} alt="img"/>
             <div className="me-auto">
                 <div>
                     {item.name} {quantity > 1 && <span className="text-muted" style={{fontSize: "0.75rem"}}>x {quantity}</span>}
